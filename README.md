@@ -2,7 +2,7 @@
 
 ![Portada](./img/portada.png)
 
-##Sobre Mi##
+##Sobre Mi
 
 
 
