@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-ariel-mendez-b064a41a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tecnicopcgm@gmail.com)
-[![miCV](https://img.shields.io/badge/Descargar%20CV-PDF-blue?style=flat-square&logo=google-drive&link=https://drive.google.com/file/d/1KQmwf94P2_KnUTiYF6OnomvKipz4H_2g/view?usp=drive_link)](https://drive.google.com/file/d/1KQmwf94P2_KnUTiYF6OnomvKipz4H_2g/view?usp=drive_link)
+<!--[![miCV](https://img.shields.io/badge/Descargar%20CV-PDF-blue?style=flat-square&logo=google-drive&link=https://drive.google.com/file/d/1KQmwf94P2_KnUTiYF6OnomvKipz4H_2g/view?usp=drive_link)](https://drive.google.com/file/d/1KQmwf94P2_KnUTiYF6OnomvKipz4H_2g/view?usp=drive_link) -->
 
 
 ## Tecnologias
